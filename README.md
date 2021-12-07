@@ -1,4 +1,4 @@
-# ECE211-Signal-Processing
-Source codes for ECE211 Signal Processing
+# ECE211-Signal-Processing & Systems
+Source codes for ECE211 Signal Processing & Systems
 
 This course presents a unified approach to signals and systems. Signal-space concepts for representation and approximation: inner product, orthogonal expansions, projection, Lp-norms, eigenanalysis, least-square problems, SVD. Phasors, complex baseband, line spectra. Sampling, aliasing and imaging. Analog and digital LTI systems in the time, frequency and transform domains: convolution, frequency response, transfer functions. Fourier, Laplace and z-transforms. FIR and IIR digital filters. Block diagrams, stability, feedback, initial conditions, transient modes, damping factor, Bode plots. Analog and digital state-space, transition and transfer function matrices. Random signals and vectors: correlation matrices, Gaussian vectors and signals, white noise, stationarity, ergodicity, power spectral density, ARMA models. Extensive use of MATLAB.
